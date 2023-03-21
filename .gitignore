@@ -20,3 +20,5 @@
 /Assignment-API/Assignment.Services/obj
 /Assignment-API/Assignment.Tests/bin/Debug/net6.0
 /Assignment-API/Assignment.Tests/obj
+/.vs
+/Assignment-API/Assignment.Tests/bin/Release/net6.0
