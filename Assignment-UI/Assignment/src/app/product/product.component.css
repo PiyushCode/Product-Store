@@ -1,0 +1,15 @@
+.position-right{
+    float: right;
+}
+
+.position-left{
+    float: left;
+}
+
+.prdct-img{
+    height: 100px;
+}
+
+.modal{
+    background: rgba(0,0,0, .5)
+}
