@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Assignment-API/Assignment/.vs/Assignment/config
+/Assignment-API/Assignment/.vs/Assignment/DesignTimeBuild
+/Assignment-API/Assignment/.vs/Assignment/FileContentIndex
+/Assignment-API/Assignment/.vs/Assignment/v17/TestStore/0
+/Assignment-API/Assignment/.vs/Assignment/v17
+/Assignment-API/Assignment/.vs/ProjectEvaluation
+/Assignment-API/Assignment/bin/Debug/net6.0/runtimes/unix/lib
+/Assignment-API/Assignment/bin/Debug/net6.0/runtimes/browser/lib/net6.0
+/Assignment-API/Assignment/bin/Debug/net6.0/runtimes/win/lib
+/Assignment-API/Assignment/bin/Debug/net6.0/runtimes
+/Assignment-API/Assignment/bin/Debug/net6.0
+/Assignment-API/Assignment/obj
+/Assignment-API/Assignment.DataLayer/bin/Debug/net6.0
+/Assignment-API/Assignment.DataLayer/obj
+/Assignment-API/Assignment.Services/bin/Debug/net6.0
+/Assignment-API/Assignment.Services/obj
+/Assignment-API/Assignment.Tests/bin/Debug/net6.0
+/Assignment-API/Assignment.Tests/obj
